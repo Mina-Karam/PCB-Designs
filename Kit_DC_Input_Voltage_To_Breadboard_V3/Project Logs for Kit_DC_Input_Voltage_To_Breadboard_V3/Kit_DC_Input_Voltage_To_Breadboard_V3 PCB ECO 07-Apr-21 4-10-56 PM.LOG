@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=J?-2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Added Pin To Net: NetName=NetD1_1 Pin=J1-2
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ1_1
+Added Member To Class: ClassName=Kit_DC_Input_Voltage_To_Breadboard_V3 Member=Component D1 Red Led 5mm
+Added Room: Name=Kit_DC_Input_Voltage_To_Breadboard_V3

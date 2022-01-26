@@ -1,0 +1,26 @@
+*************************************************************
+FileName = Kit_DC_Input_Voltage_To_Breadboard_V3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : Kit_DC_Input_Voltage_To_Breadboard_V3.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
