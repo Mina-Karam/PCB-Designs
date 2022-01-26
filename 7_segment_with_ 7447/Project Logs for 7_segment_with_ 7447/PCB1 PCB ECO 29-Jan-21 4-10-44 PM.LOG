@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=S? NewDesignator=S2
+Change Component Designator: OldDesignator=S? NewDesignator=S3
+Change Component Designator: OldDesignator=S? NewDesignator=S4
+Added Member To Class: ClassName=Sheet1 Member=Component S2 Push Button 2 pins
+Added Member To Class: ClassName=Sheet1 Member=Component S3 Push Button 2 pins
+Added Member To Class: ClassName=Sheet1 Member=Component S4 Push Button 2 pins
+Added Room: Name=Sheet1

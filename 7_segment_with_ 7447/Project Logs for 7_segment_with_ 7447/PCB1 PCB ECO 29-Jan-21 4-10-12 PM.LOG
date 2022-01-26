@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Sheet1 Member=S1
+Removed Member From Class: ClassName=Sheet1 Member=S2
+Removed Member From Class: ClassName=Sheet1 Member=S3
+Removed Member From Class: ClassName=Sheet1 Member=S4
+Added Component: Designator=S?(Push Button)
+Added Component: Designator=S?(Push Button)
+Added Component: Designator=S?(Push Button)
+Added Component: Designator=S?(Push Button)
+Added Pin To Net: NetName=NetD1_1 Pin=S?-1
+Added Pin To Net: NetName=NetD2_1 Pin=S?-1
+Added Pin To Net: NetName=NetD3_1 Pin=S?-1
+Added Pin To Net: NetName=NetD4_1 Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Member To Class: ClassName=Sheet1 Member=Component S? Push Button 2 pins
+Added Member To Class: ClassName=Sheet1 Member=Component S? Push Button 2 pins
+Added Member To Class: ClassName=Sheet1 Member=Component S? Push Button 2 pins
+Added Member To Class: ClassName=Sheet1 Member=Component S? Push Button 2 pins
+Added Room: Name=Sheet1
