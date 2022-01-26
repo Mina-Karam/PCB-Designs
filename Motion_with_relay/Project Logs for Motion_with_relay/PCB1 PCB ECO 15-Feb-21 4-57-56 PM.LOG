@@ -1,0 +1,5 @@
+Added Component: Designator=J2(TE_826926-2_0)
+Added Pin To Net: NetName=+9 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Member To Class: ClassName=Sheet1 Member=Component J2 PH 2pin
+Added Room: Name=Sheet1
