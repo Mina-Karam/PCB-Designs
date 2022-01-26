@@ -1,0 +1,5 @@
+Added Component: Designator=J?(Phoenix_Contact_1729018_0)
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=VCC Pin=J?-2
+Added Member To Class: ClassName=Sheet1 Member=Component J? TB 2pin
+Added Room: Name=Sheet1
