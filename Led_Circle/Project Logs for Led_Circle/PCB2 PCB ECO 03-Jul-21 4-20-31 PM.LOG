@@ -1,0 +1,163 @@
+Added Component: Designator=D1(Avago_HLMP-3301_MFG)
+Added Component: Designator=D2(Avago_HLMP-3301_MFG)
+Added Component: Designator=D3(Avago_HLMP-3301_MFG)
+Added Component: Designator=D4(Avago_HLMP-3301_MFG)
+Added Component: Designator=D5(Avago_HLMP-3301_MFG)
+Added Component: Designator=D6(Avago_HLMP-3301_MFG)
+Added Component: Designator=D7(Avago_HLMP-3301_MFG)
+Added Component: Designator=D8(Avago_HLMP-3301_MFG)
+Added Component: Designator=D9(Avago_HLMP-3301_MFG)
+Added Component: Designator=D10(Avago_HLMP-3301_MFG)
+Added Component: Designator=D11(Avago_HLMP-3301_MFG)
+Added Component: Designator=D12(Avago_HLMP-3301_MFG)
+Added Component: Designator=D13(Avago_HLMP-3301_MFG)
+Added Component: Designator=D14(Avago_HLMP-3301_MFG)
+Added Component: Designator=D15(Avago_HLMP-3301_MFG)
+Added Component: Designator=D16(Avago_HLMP-3301_MFG)
+Added Component: Designator=D17(Avago_HLMP-3301_MFG)
+Added Component: Designator=D18(Avago_HLMP-3301_MFG)
+Added Component: Designator=J1(TE_826926-2_0)
+Added Component: Designator=R1(Stackpole_Electronics_Inc._CF14JT1K00_0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/429fdfafcb133a34/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/SEI-CF_CFM.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "RES 1K OHM 1/4W 5% CARBON FILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "CF14JT1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/429fdfafcb133a34/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "RESAD956W80L600D230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.018380078196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1KO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CF14JT1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "0/ -400ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1KO"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Stackpole_Electronics_Inc._CF14JT1K00_0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/429fdfafcb133a34/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/SEI-CF_CFM.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "RES 1K OHM 1/4W 5% CARBON FILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "CF14JT1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/429fdfafcb133a34/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "RESAD956W80L600D230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.018380078196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1KO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CF14JT1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "0/ -400ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1KO"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Stackpole_Electronics_Inc._CF14JT1K00_0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/429fdfafcb133a34/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/SEI-CF_CFM.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "RES 1K OHM 1/4W 5% CARBON FILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "CF14JT1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/429fdfafcb133a34/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "RESAD956W80L600D230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.018380078196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1KO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CF14JT1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "0/ -400ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1KO"; VariantName = "[No Variations]"
+Added Component: Designator=S1(Push Button)
+Added Component: Designator=S2(Push Button)
+Added Component: Designator=S3(Push Button)
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=S1-2
+Added Pin To Net: NetName=+5 Pin=S2-2
+Added Pin To Net: NetName=+5 Pin=S3-2
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=GND Pin=D13-1
+Added Pin To Net: NetName=GND Pin=D14-1
+Added Pin To Net: NetName=GND Pin=D15-1
+Added Pin To Net: NetName=GND Pin=D16-1
+Added Pin To Net: NetName=GND Pin=D17-1
+Added Pin To Net: NetName=GND Pin=D18-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=D3-2
+Added Pin To Net: NetName=NetD1_2 Pin=D4-2
+Added Pin To Net: NetName=NetD1_2 Pin=D5-2
+Added Pin To Net: NetName=NetD1_2 Pin=D6-2
+Added Pin To Net: NetName=NetD1_2 Pin=D7-2
+Added Pin To Net: NetName=NetD1_2 Pin=D8-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=D10-2
+Added Pin To Net: NetName=NetD9_2 Pin=D11-2
+Added Pin To Net: NetName=NetD9_2 Pin=D12-2
+Added Pin To Net: NetName=NetD9_2 Pin=D13-2
+Added Pin To Net: NetName=NetD9_2 Pin=D14-2
+Added Pin To Net: NetName=NetD9_2 Pin=R2-2
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD15_2 Pin=D16-2
+Added Pin To Net: NetName=NetD15_2 Pin=D17-2
+Added Pin To Net: NetName=NetD15_2 Pin=D18-2
+Added Pin To Net: NetName=NetD15_2 Pin=R3-2
+Added Net: Name=NetD15_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=S1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=S2-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=S3-1
+Added Net: Name=NetR3_1
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2
