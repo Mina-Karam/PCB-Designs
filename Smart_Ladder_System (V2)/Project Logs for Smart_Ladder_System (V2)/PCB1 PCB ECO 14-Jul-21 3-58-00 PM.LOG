@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=NetJ3_3 Pin=U1-14
+Removed Pin From Net: NetName=NetJ4_3 Pin=U1-15
+Removed Pin From Net: NetName=NetJ5_3 Pin=U1-17
+Removed Pin From Net: NetName=NetJ6_3 Pin=U1-18
+Change Component Footprint: Designator=J3 Old Footprint=TB 4pin New Footprint=JST 4pin
+Change Component Footprint: Designator=J4 Old Footprint=TB 4pin New Footprint=JST 4pin
+Change Component Footprint: Designator=J5 Old Footprint=TB 4pin New Footprint=JST 4pin
+Change Component Footprint: Designator=J6 Old Footprint=TB 4pin New Footprint=JST 4pin
+Change Component Comment : Designator=J3 Old Comment=TB 4pin New Comment=JST 4pin
+Change Component Comment : Designator=J4 Old Comment=TB 4pin New Comment=JST 4pin
+Change Component Comment : Designator=J5 Old Comment=TB 4pin New Comment=JST 4pin
+Change Component Comment : Designator=J6 Old Comment=TB 4pin New Comment=JST 4pin
+Change component parameters: Designator = "J3" ("J3"); Footprint = "TB 4pin"; UniqueID = "\ZBVQIXWR" ("\ZBVQIXWR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/ec0bbf06de5e0de7/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER XH TOP 4POS 2.5MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "455-2249-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/ec0bbf06de5e0de7/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HDR4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.132538890827"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-2249-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-25°C to +85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "TB 4pin"; UniqueID = "\TLFYKAGP" ("\TLFYKAGP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/ec0bbf06de5e0de7/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER XH TOP 4POS 2.5MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "455-2249-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/ec0bbf06de5e0de7/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HDR4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.132538890827"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-2249-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-25°C to +85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "TB 4pin"; UniqueID = "\OCPMIXFR" ("\OCPMIXFR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/ec0bbf06de5e0de7/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER XH TOP 4POS 2.5MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "455-2249-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/ec0bbf06de5e0de7/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HDR4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.132538890827"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-2249-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-25°C to +85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "TB 4pin"; UniqueID = "\LKJDYLIW" ("\LKJDYLIW")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/ec0bbf06de5e0de7/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER XH TOP 4POS 2.5MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "455-2249-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/ec0bbf06de5e0de7/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HDR4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.132538890827"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-2249-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-25°C to +85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-25°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ5_3 Pin=U1-14
+Added Pin To Net: NetName=NetJ6_3 Pin=U1-15
+Added Pin To Net: NetName=NetJ3_3 Pin=U1-17
+Added Pin To Net: NetName=NetJ4_3 Pin=U1-18
+Added Room: Name=Sheet1

@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=+12 Pin=J9-1
+Removed Pin From Net: NetName=+12 Pin=J9-2
+Removed Pin From Net: NetName=+12 Pin=J9-3
+Removed Pin From Net: NetName=+12 Pin=J9-4
+Removed Pin From Net: NetName=+12 Pin=J9-5
+Removed Pin From Net: NetName=+12 Pin=J9-6
+Removed Member From Class: ClassName=Sheet1 Member=J9
+Change Component Footprint: Designator=J8 Old Footprint=TB 6pin New Footprint=TB 12pin
+Change Component Comment : Designator=J8 Old Comment=TB 6pin New Comment=TB 12pin
+Change component parameters: Designator = "J8" ("J8"); Footprint = "TB 6pin"; UniqueID = "\GTPPCQQF" ("\GTPPCQQF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/253835f9054f6f6c/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.phoenixcontact.com/online/portal/us?urile=pxc-oc-itemdetail:pid=1792960&library=usen&tab=1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CONN 12 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "277-2528-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/253835f9054f6f6c/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "651-1792960"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "POS12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "5.00mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions Per Level"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1.52293932259"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "277-2528-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "651-1792960"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "to"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge"; Value = "14-26 AWG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=J8-7
+Added Pin To Net: NetName=+12 Pin=J8-8
+Added Pin To Net: NetName=+12 Pin=J8-9
+Added Pin To Net: NetName=+12 Pin=J8-10
+Added Pin To Net: NetName=+12 Pin=J8-11
+Added Pin To Net: NetName=+12 Pin=J8-12
+Added Room: Name=Sheet1

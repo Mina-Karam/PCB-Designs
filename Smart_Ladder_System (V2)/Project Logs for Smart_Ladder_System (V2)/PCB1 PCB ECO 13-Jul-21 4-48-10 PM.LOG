@@ -1,0 +1,144 @@
+Added Component: Designator=Q1(PC817)
+Added Component: Designator=Q2(PC817)
+Added Component: Designator=Q3(PC817)
+Added Component: Designator=Q4(PC817)
+Added Component: Designator=Q9(PC817)
+Added Component: Designator=Q10(PC817)
+Added Component: Designator=Q11(PC817)
+Added Component: Designator=Q12(PC817)
+Added Component: Designator=Q17(PC817)
+Added Component: Designator=Q18(PC817)
+Added Component: Designator=Q19(PC817)
+Added Component: Designator=Q20(PC817)
+Added Component: Designator=Q25(PC817)
+Added Component: Designator=Q26(PC817)
+Added Component: Designator=Q27(PC817)
+Added Component: Designator=Q28(PC817)
+Added Component: Designator=Q33(PC817)
+Added Component: Designator=Q34(PC817)
+Added Component: Designator=Q35(PC817)
+Added Component: Designator=Q36(PC817)
+Added Component: Designator=Q41(PC817)
+Added Component: Designator=Q42(PC817)
+Added Component: Designator=Q43(PC817)
+Added Component: Designator=Q44(PC817)
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=+12 Pin=Q1-4
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=+12 Pin=Q2-4
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=+12 Pin=Q3-4
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=+12 Pin=Q4-4
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_2 Pin=Q9-2
+Added Pin To Net: NetName=NetQ9_3 Pin=Q9-3
+Added Pin To Net: NetName=+12 Pin=Q9-4
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_2 Pin=Q10-2
+Added Pin To Net: NetName=NetQ10_3 Pin=Q10-3
+Added Pin To Net: NetName=+12 Pin=Q10-4
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_2 Pin=Q11-2
+Added Pin To Net: NetName=NetQ11_3 Pin=Q11-3
+Added Pin To Net: NetName=+12 Pin=Q11-4
+Added Pin To Net: NetName=NetQ12_1 Pin=Q12-1
+Added Pin To Net: NetName=NetQ12_2 Pin=Q12-2
+Added Pin To Net: NetName=NetQ12_3 Pin=Q12-3
+Added Pin To Net: NetName=+12 Pin=Q12-4
+Added Pin To Net: NetName=NetQ17_1 Pin=Q17-1
+Added Pin To Net: NetName=NetQ17_2 Pin=Q17-2
+Added Pin To Net: NetName=NetQ17_3 Pin=Q17-3
+Added Pin To Net: NetName=+12 Pin=Q17-4
+Added Pin To Net: NetName=NetQ18_1 Pin=Q18-1
+Added Pin To Net: NetName=NetQ18_2 Pin=Q18-2
+Added Pin To Net: NetName=NetQ18_3 Pin=Q18-3
+Added Pin To Net: NetName=+12 Pin=Q18-4
+Added Pin To Net: NetName=NetQ19_1 Pin=Q19-1
+Added Pin To Net: NetName=NetQ19_2 Pin=Q19-2
+Added Pin To Net: NetName=NetQ19_3 Pin=Q19-3
+Added Pin To Net: NetName=+12 Pin=Q19-4
+Added Pin To Net: NetName=NetQ20_1 Pin=Q20-1
+Added Pin To Net: NetName=NetQ20_2 Pin=Q20-2
+Added Pin To Net: NetName=NetQ20_3 Pin=Q20-3
+Added Pin To Net: NetName=+12 Pin=Q20-4
+Added Pin To Net: NetName=NetQ25_1 Pin=Q25-1
+Added Pin To Net: NetName=NetQ25_2 Pin=Q25-2
+Added Pin To Net: NetName=NetQ25_3 Pin=Q25-3
+Added Pin To Net: NetName=+12 Pin=Q25-4
+Added Pin To Net: NetName=NetQ26_1 Pin=Q26-1
+Added Pin To Net: NetName=NetQ26_2 Pin=Q26-2
+Added Pin To Net: NetName=NetQ26_3 Pin=Q26-3
+Added Pin To Net: NetName=+12 Pin=Q26-4
+Added Pin To Net: NetName=NetQ27_1 Pin=Q27-1
+Added Pin To Net: NetName=NetQ27_2 Pin=Q27-2
+Added Pin To Net: NetName=NetQ27_3 Pin=Q27-3
+Added Pin To Net: NetName=+12 Pin=Q27-4
+Added Pin To Net: NetName=NetQ28_1 Pin=Q28-1
+Added Pin To Net: NetName=NetQ28_2 Pin=Q28-2
+Added Pin To Net: NetName=NetQ28_3 Pin=Q28-3
+Added Pin To Net: NetName=+12 Pin=Q28-4
+Added Pin To Net: NetName=NetQ33_1 Pin=Q33-1
+Added Pin To Net: NetName=NetQ33_2 Pin=Q33-2
+Added Pin To Net: NetName=NetQ33_3 Pin=Q33-3
+Added Pin To Net: NetName=+12 Pin=Q33-4
+Added Pin To Net: NetName=NetQ34_1 Pin=Q34-1
+Added Pin To Net: NetName=NetQ34_2 Pin=Q34-2
+Added Pin To Net: NetName=NetQ34_3 Pin=Q34-3
+Added Pin To Net: NetName=+12 Pin=Q34-4
+Added Pin To Net: NetName=NetQ35_1 Pin=Q35-1
+Added Pin To Net: NetName=NetQ35_2 Pin=Q35-2
+Added Pin To Net: NetName=NetQ35_3 Pin=Q35-3
+Added Pin To Net: NetName=+12 Pin=Q35-4
+Added Pin To Net: NetName=NetQ36_1 Pin=Q36-1
+Added Pin To Net: NetName=NetQ36_2 Pin=Q36-2
+Added Pin To Net: NetName=NetQ36_3 Pin=Q36-3
+Added Pin To Net: NetName=+12 Pin=Q36-4
+Added Pin To Net: NetName=NetQ41_1 Pin=Q41-1
+Added Pin To Net: NetName=NetQ41_2 Pin=Q41-2
+Added Pin To Net: NetName=NetQ41_3 Pin=Q41-3
+Added Pin To Net: NetName=+12 Pin=Q41-4
+Added Pin To Net: NetName=NetQ42_1 Pin=Q42-1
+Added Pin To Net: NetName=NetQ42_2 Pin=Q42-2
+Added Pin To Net: NetName=NetQ42_3 Pin=Q42-3
+Added Pin To Net: NetName=+12 Pin=Q42-4
+Added Pin To Net: NetName=NetQ43_1 Pin=Q43-1
+Added Pin To Net: NetName=NetQ43_2 Pin=Q43-2
+Added Pin To Net: NetName=NetQ43_3 Pin=Q43-3
+Added Pin To Net: NetName=+12 Pin=Q43-4
+Added Pin To Net: NetName=NetQ44_1 Pin=Q44-1
+Added Pin To Net: NetName=NetQ44_2 Pin=Q44-2
+Added Pin To Net: NetName=NetQ44_3 Pin=Q44-3
+Added Pin To Net: NetName=+12 Pin=Q44-4
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q9 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q10 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q11 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q12 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q17 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q18 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q19 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q20 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q25 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q26 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q27 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q28 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q33 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q34 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q35 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q36 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q41 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q42 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q43 PC817
+Added Member To Class: ClassName=Sheet1 Member=Component Q44 PC817

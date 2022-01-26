@@ -1,0 +1,29 @@
+Added Component: Designator=U2(E-Switch 6pin 8*8)
+Add component (AddParameter): Name = "Circuit"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/08c59e74152234e5/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://spec_sheets.e-switch.com/specs/Q228500.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "100mA (DC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC SWITCH PUSH DPDT 0.1A 30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "EG1871-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/08c59e74152234e5/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "612-TL2285OA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SW_DPDT_TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TL2285OA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.545599996929"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "EG1871-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "612-TL2285OA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "to"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU2_1 Pin=U2-1
+Added Pin To Net: NetName=NetD1_2 Pin=U2-2
+Added Pin To Net: NetName=NetF2_1 Pin=U2-3
+Added Pin To Net: NetName=NetF2_1 Pin=U2-4
+Added Pin To Net: NetName=NetU2_1 Pin=U2-5
+Added Pin To Net: NetName=NetD1_2 Pin=U2-6
+Added Member To Class: ClassName=Sheet1 Member=Component U2 E-Switch 6pin 8*8

@@ -1,0 +1,348 @@
+Removed Pin From Net: NetName=GND Pin=D27-1
+Removed Pin From Net: NetName=NetJ8_1 Pin=Q5-2
+Removed Pin From Net: NetName=NetJ7_1 Pin=Q6-2
+Removed Pin From Net: NetName=NetJ8_7 Pin=Q7-2
+Removed Pin From Net: NetName=NetJ7_7 Pin=Q8-2
+Removed Pin From Net: NetName=NetJ8_2 Pin=Q13-2
+Removed Pin From Net: NetName=NetJ7_2 Pin=Q14-2
+Removed Pin From Net: NetName=NetJ8_8 Pin=Q15-2
+Removed Pin From Net: NetName=NetJ7_8 Pin=Q16-2
+Removed Pin From Net: NetName=NetJ8_3 Pin=Q21-2
+Removed Pin From Net: NetName=NetJ7_3 Pin=Q22-2
+Removed Pin From Net: NetName=NetJ8_9 Pin=Q23-2
+Removed Pin From Net: NetName=NetJ7_9 Pin=Q24-2
+Removed Pin From Net: NetName=NetJ8_4 Pin=Q29-2
+Removed Pin From Net: NetName=NetJ7_4 Pin=Q30-2
+Removed Pin From Net: NetName=NetJ8_10 Pin=Q31-2
+Removed Pin From Net: NetName=NetJ7_10 Pin=Q32-2
+Removed Pin From Net: NetName=NetJ8_5 Pin=Q37-2
+Removed Pin From Net: NetName=NetJ7_5 Pin=Q38-2
+Removed Pin From Net: NetName=NetJ8_11 Pin=Q39-2
+Removed Pin From Net: NetName=NetJ7_11 Pin=Q40-2
+Removed Pin From Net: NetName=NetJ8_6 Pin=Q45-2
+Removed Pin From Net: NetName=NetJ7_6 Pin=Q46-2
+Removed Pin From Net: NetName=NetJ8_12 Pin=Q47-2
+Removed Pin From Net: NetName=NetJ7_12 Pin=Q48-2
+Removed Pin From Net: NetName=NetD14_2 Pin=R20-1
+Removed Pin From Net: NetName=NetD15_2 Pin=R21-1
+Removed Pin From Net: NetName=NetD16_2 Pin=R26-1
+Removed Pin From Net: NetName=NetD17_2 Pin=R27-1
+Removed Pin From Net: NetName=NetD18_2 Pin=R28-1
+Removed Pin From Net: NetName=NetD19_2 Pin=R29-1
+Removed Pin From Net: NetName=NetD20_2 Pin=R34-1
+Removed Pin From Net: NetName=NetD21_2 Pin=R35-1
+Removed Pin From Net: NetName=NetD22_2 Pin=R36-1
+Removed Pin From Net: NetName=NetD23_2 Pin=R37-1
+Removed Pin From Net: NetName=NetD24_2 Pin=R42-1
+Removed Pin From Net: NetName=NetD25_2 Pin=R43-1
+Removed Pin From Net: NetName=NetD26_2 Pin=R44-1
+Removed Member From Class: ClassName=Sheet1 Member=C1
+Removed Member From Class: ClassName=Sheet1 Member=C2
+Removed Member From Class: ClassName=Sheet1 Member=C4
+Removed Member From Class: ClassName=Sheet1 Member=C5
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Removed Member From Class: ClassName=Sheet1 Member=C7
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Removed Member From Class: ClassName=Sheet1 Member=D27
+Removed Member From Class: ClassName=Sheet1 Member=F1
+Removed Member From Class: ClassName=Sheet1 Member=F2
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Removed Member From Class: ClassName=Sheet1 Member=J2
+Removed Member From Class: ClassName=Sheet1 Member=J3
+Removed Member From Class: ClassName=Sheet1 Member=J4
+Removed Member From Class: ClassName=Sheet1 Member=J5
+Removed Member From Class: ClassName=Sheet1 Member=J6
+Removed Member From Class: ClassName=Sheet1 Member=J7
+Removed Member From Class: ClassName=Sheet1 Member=J8
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R50
+Removed Member From Class: ClassName=Sheet1 Member=S1
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Removed Member From Class: ClassName=Sheet1 Member=U3
+Removed Member From Class: ClassName=Sheet1 Member=U4
+Removed Member From Class: ClassName=Sheet1 Member=U5
+Removed Member From Class: ClassName=Sheet1 Member=U6
+Removed Member From Class: ClassName=Sheet1 Member=VR1
+Removed Member From Class: ClassName=Sheet1 Member=VR2
+Removed Member From Class: ClassName=Sheet1 Member=Y1
+Added Component: Designator=D13(Avago_HLMP-3301_MFG)
+Added Component: Designator=J9(TB 12pin)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/253835f9054f6f6c/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.phoenixcontact.com/online/portal/us?urile=pxc-oc-itemdetail:pid=1792960&library=usen&tab=1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN 12 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "277-2528-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/253835f9054f6f6c/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1792960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "POS12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.52293932259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-2528-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "651-1792960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "to"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "14-26 AWG"; VariantName = "[No Variations]"
+Added Component: Designator=J10(TB 12pin)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/253835f9054f6f6c/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.phoenixcontact.com/online/portal/us?urile=pxc-oc-itemdetail:pid=1792960&library=usen&tab=1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN 12 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "277-2528-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/253835f9054f6f6c/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1792960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "POS12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.52293932259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-2528-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "651-1792960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "to"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "14-26 AWG"; VariantName = "[No Variations]"
+Added Component: Designator=J11(TB 12pin)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/253835f9054f6f6c/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.phoenixcontact.com/online/portal/us?urile=pxc-oc-itemdetail:pid=1792960&library=usen&tab=1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN 12 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "277-2528-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/253835f9054f6f6c/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1792960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "POS12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.52293932259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-2528-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "651-1792960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "to"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "14-26 AWG"; VariantName = "[No Variations]"
+Added Component: Designator=J12(TB 12pin)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/253835f9054f6f6c/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.phoenixcontact.com/online/portal/us?urile=pxc-oc-itemdetail:pid=1792960&library=usen&tab=1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN 12 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "277-2528-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/253835f9054f6f6c/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1792960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "POS12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.52293932259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-2528-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "651-1792960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "to"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "14-26 AWG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D13-1
+Added Pin To Net: NetName=NetJ7_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ7_2 Pin=J11-2
+Added Pin To Net: NetName=NetJ7_3 Pin=J11-3
+Added Pin To Net: NetName=NetJ7_4 Pin=J11-4
+Added Pin To Net: NetName=NetJ7_5 Pin=J11-5
+Added Pin To Net: NetName=NetJ7_6 Pin=J11-6
+Added Pin To Net: NetName=NetJ7_7 Pin=J11-7
+Added Pin To Net: NetName=NetJ7_8 Pin=J11-8
+Added Pin To Net: NetName=NetJ7_9 Pin=J11-9
+Added Pin To Net: NetName=NetJ7_10 Pin=J11-10
+Added Pin To Net: NetName=NetJ7_11 Pin=J11-11
+Added Pin To Net: NetName=NetJ7_12 Pin=J11-12
+Added Pin To Net: NetName=NetJ8_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ8_2 Pin=J12-2
+Added Pin To Net: NetName=NetJ8_3 Pin=J12-3
+Added Pin To Net: NetName=NetJ8_4 Pin=J12-4
+Added Pin To Net: NetName=NetJ8_5 Pin=J12-5
+Added Pin To Net: NetName=NetJ8_6 Pin=J12-6
+Added Pin To Net: NetName=NetJ8_7 Pin=J12-7
+Added Pin To Net: NetName=NetJ8_8 Pin=J12-8
+Added Pin To Net: NetName=NetJ8_9 Pin=J12-9
+Added Pin To Net: NetName=NetJ8_10 Pin=J12-10
+Added Pin To Net: NetName=NetJ8_11 Pin=J12-11
+Added Pin To Net: NetName=NetJ8_12 Pin=J12-12
+Added Pin To Net: NetName=NetJ7_1 Pin=Q1-1
+Added Pin To Net: NetName=NetJ8_1 Pin=Q2-1
+Added Pin To Net: NetName=NetJ7_7 Pin=Q3-1
+Added Pin To Net: NetName=NetJ8_7 Pin=Q4-1
+Added Pin To Net: NetName=NetJ7_2 Pin=Q9-1
+Added Pin To Net: NetName=NetJ8_2 Pin=Q10-1
+Added Pin To Net: NetName=NetJ7_8 Pin=Q11-1
+Added Pin To Net: NetName=NetJ8_8 Pin=Q12-1
+Added Pin To Net: NetName=NetJ7_3 Pin=Q17-1
+Added Pin To Net: NetName=NetJ8_3 Pin=Q18-1
+Added Pin To Net: NetName=NetJ7_9 Pin=Q19-1
+Added Pin To Net: NetName=NetJ8_9 Pin=Q20-1
+Added Pin To Net: NetName=NetJ7_4 Pin=Q25-1
+Added Pin To Net: NetName=NetJ8_4 Pin=Q26-1
+Added Pin To Net: NetName=NetJ7_10 Pin=Q27-1
+Added Pin To Net: NetName=NetJ8_10 Pin=Q28-1
+Added Pin To Net: NetName=NetJ7_5 Pin=Q33-1
+Added Pin To Net: NetName=NetJ8_5 Pin=Q34-1
+Added Pin To Net: NetName=NetJ7_11 Pin=Q35-1
+Added Pin To Net: NetName=NetJ8_11 Pin=Q36-1
+Added Pin To Net: NetName=NetJ7_6 Pin=Q41-1
+Added Pin To Net: NetName=NetJ8_6 Pin=Q42-1
+Added Pin To Net: NetName=NetJ7_12 Pin=Q43-1
+Added Pin To Net: NetName=NetJ8_12 Pin=Q44-1
+Added Pin To Net: NetName=NetD14_2 Pin=R21-1
+Added Pin To Net: NetName=NetD15_2 Pin=R26-1
+Added Pin To Net: NetName=NetD16_2 Pin=R27-1
+Added Pin To Net: NetName=NetD17_2 Pin=R28-1
+Added Pin To Net: NetName=NetD18_2 Pin=R29-1
+Added Pin To Net: NetName=NetD19_2 Pin=R34-1
+Added Pin To Net: NetName=NetD20_2 Pin=R35-1
+Added Pin To Net: NetName=NetD21_2 Pin=R36-1
+Added Pin To Net: NetName=NetD22_2 Pin=R37-1
+Added Pin To Net: NetName=NetD23_2 Pin=R42-1
+Added Pin To Net: NetName=NetD24_2 Pin=R43-1
+Added Pin To Net: NetName=NetD25_2 Pin=R44-1
+Added Pin To Net: NetName=NetD26_2 Pin=R45-1
+Added Pin To Net: NetName=NetJ7_2 Pin=U4-1
+Added Pin To Net: NetName=NetJ7_3 Pin=U4-2
+Added Pin To Net: NetName=NetJ7_4 Pin=U4-3
+Added Pin To Net: NetName=NetJ7_5 Pin=U4-4
+Added Pin To Net: NetName=NetJ7_6 Pin=U4-5
+Added Pin To Net: NetName=NetJ7_7 Pin=U4-6
+Added Pin To Net: NetName=NetJ7_8 Pin=U4-7
+Added Pin To Net: NetName=NetJ7_1 Pin=U4-15
+Added Pin To Net: NetName=NetJ7_10 Pin=U5-1
+Added Pin To Net: NetName=NetJ7_11 Pin=U5-2
+Added Pin To Net: NetName=NetJ7_12 Pin=U5-3
+Added Pin To Net: NetName=NetJ8_1 Pin=U5-4
+Added Pin To Net: NetName=NetJ8_2 Pin=U5-5
+Added Pin To Net: NetName=NetJ8_3 Pin=U5-6
+Added Pin To Net: NetName=NetJ8_4 Pin=U5-7
+Added Pin To Net: NetName=NetJ7_9 Pin=U5-15
+Added Pin To Net: NetName=NetJ8_6 Pin=U6-1
+Added Pin To Net: NetName=NetJ8_7 Pin=U6-2
+Added Pin To Net: NetName=NetJ8_8 Pin=U6-3
+Added Pin To Net: NetName=NetJ8_9 Pin=U6-4
+Added Pin To Net: NetName=NetJ8_10 Pin=U6-5
+Added Pin To Net: NetName=NetJ8_11 Pin=U6-6
+Added Pin To Net: NetName=NetJ8_12 Pin=U6-7
+Added Pin To Net: NetName=NetJ8_5 Pin=U6-15
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=R20-1
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=Q5-2
+Added Net: Name=NetJ9_1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_2 Pin=Q13-2
+Added Net: Name=NetJ9_2
+Added Pin To Net: NetName=NetJ9_3 Pin=J9-3
+Added Pin To Net: NetName=NetJ9_3 Pin=Q21-2
+Added Net: Name=NetJ9_3
+Added Pin To Net: NetName=NetJ9_4 Pin=J9-4
+Added Pin To Net: NetName=NetJ9_4 Pin=Q29-2
+Added Net: Name=NetJ9_4
+Added Pin To Net: NetName=NetJ9_5 Pin=J9-5
+Added Pin To Net: NetName=NetJ9_5 Pin=Q37-2
+Added Net: Name=NetJ9_5
+Added Pin To Net: NetName=NetJ9_6 Pin=J9-6
+Added Pin To Net: NetName=NetJ9_6 Pin=Q45-2
+Added Net: Name=NetJ9_6
+Added Pin To Net: NetName=NetJ9_7 Pin=J9-7
+Added Pin To Net: NetName=NetJ9_7 Pin=Q7-2
+Added Net: Name=NetJ9_7
+Added Pin To Net: NetName=NetJ9_8 Pin=J9-8
+Added Pin To Net: NetName=NetJ9_8 Pin=Q15-2
+Added Net: Name=NetJ9_8
+Added Pin To Net: NetName=NetJ9_9 Pin=J9-9
+Added Pin To Net: NetName=NetJ9_9 Pin=Q23-2
+Added Net: Name=NetJ9_9
+Added Pin To Net: NetName=NetJ9_10 Pin=J9-10
+Added Pin To Net: NetName=NetJ9_10 Pin=Q31-2
+Added Net: Name=NetJ9_10
+Added Pin To Net: NetName=NetJ9_11 Pin=J9-11
+Added Pin To Net: NetName=NetJ9_11 Pin=Q39-2
+Added Net: Name=NetJ9_11
+Added Pin To Net: NetName=NetJ9_12 Pin=J9-12
+Added Pin To Net: NetName=NetJ9_12 Pin=Q47-2
+Added Net: Name=NetJ9_12
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=Q6-2
+Added Net: Name=NetJ10_1
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_2 Pin=Q14-2
+Added Net: Name=NetJ10_2
+Added Pin To Net: NetName=NetJ10_3 Pin=J10-3
+Added Pin To Net: NetName=NetJ10_3 Pin=Q22-2
+Added Net: Name=NetJ10_3
+Added Pin To Net: NetName=NetJ10_4 Pin=J10-4
+Added Pin To Net: NetName=NetJ10_4 Pin=Q30-2
+Added Net: Name=NetJ10_4
+Added Pin To Net: NetName=NetJ10_5 Pin=J10-5
+Added Pin To Net: NetName=NetJ10_5 Pin=Q38-2
+Added Net: Name=NetJ10_5
+Added Pin To Net: NetName=NetJ10_6 Pin=J10-6
+Added Pin To Net: NetName=NetJ10_6 Pin=Q46-2
+Added Net: Name=NetJ10_6
+Added Pin To Net: NetName=NetJ10_7 Pin=J10-7
+Added Pin To Net: NetName=NetJ10_7 Pin=Q8-2
+Added Net: Name=NetJ10_7
+Added Pin To Net: NetName=NetJ10_8 Pin=J10-8
+Added Pin To Net: NetName=NetJ10_8 Pin=Q16-2
+Added Net: Name=NetJ10_8
+Added Pin To Net: NetName=NetJ10_9 Pin=J10-9
+Added Pin To Net: NetName=NetJ10_9 Pin=Q24-2
+Added Net: Name=NetJ10_9
+Added Pin To Net: NetName=NetJ10_10 Pin=J10-10
+Added Pin To Net: NetName=NetJ10_10 Pin=Q32-2
+Added Net: Name=NetJ10_10
+Added Pin To Net: NetName=NetJ10_11 Pin=J10-11
+Added Pin To Net: NetName=NetJ10_11 Pin=Q40-2
+Added Net: Name=NetJ10_11
+Added Pin To Net: NetName=NetJ10_12 Pin=J10-12
+Added Pin To Net: NetName=NetJ10_12 Pin=Q48-2
+Added Net: Name=NetJ10_12
+Change Class Name : Old Net Name=Sheet1 New Net Name=Sheet2
+Added Class: Name=Sheet1
+Added Member To Class: ClassName=Sheet2 Member=Component D13 Red Led 5mm
+Added Member To Class: ClassName=Sheet2 Member=Component J9 TB 12pin
+Added Member To Class: ClassName=Sheet2 Member=Component J10 TB 12pin
+Added Member To Class: ClassName=Sheet2 Member=Component J11 TB 12pin
+Added Member To Class: ClassName=Sheet2 Member=Component J12 TB 12pin
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

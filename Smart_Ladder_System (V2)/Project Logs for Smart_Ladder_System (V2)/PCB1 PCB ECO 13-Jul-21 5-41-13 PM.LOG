@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=+12 Pin=C3-2
+Removed Pin From Net: NetName=+5 Pin=C4-2
+Removed Member From Class: ClassName=Sheet1 Member=C3
+Change Component Footprint: Designator=C4 Old Footprint=Panasonic_ECA-1EM471_0 New Footprint=470uf
+Added Component: Designator=C7(470uf)
+Add component (AddParameter): Name = "Capacitance"; Value = "470µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/32dbfecdf9e62c49/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CAP ALUM 470UF 20% 25V RADIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "P5155-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/32dbfecdf9e62c49/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPRD500W80D1000H1250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1EM471"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ECA-1EM471"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.189022945629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P5155-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "667-ECA-1EM471"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5 Pin=C7-2
+Added Member To Class: ClassName=Sheet1 Member=Component C7 CAP ALUM 470UF  25V RADIAL
+Added Room: Name=Sheet1
