@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetP1_1 Pin=P2-1
+Removed Pin From Net: NetName=NetD1_1 Pin=P2-2
+Removed Member From Class: ClassName=Kit_DC_Input_Voltage_To_Breadboard Member=P2
+Added Component: Designator=J2(TE_826926-2_0)
+Added Pin To Net: NetName=NetD1_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=P1-3
+Added Pin To Net: NetName=NetJ2_2 Pin=R1-1
+Added Net: Name=NetJ2_2
+Added Member To Class: ClassName=Kit_DC_Input_Voltage_To_Breadboard Member=Component J2 PH 2pin
+Added Room: Name=Kit_DC_Input_Voltage_To_Breadboard

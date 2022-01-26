@@ -1,0 +1,59 @@
+*************************************************************
+FileName = Kit_DC_Input_Voltage_To_Breadboard.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Solder
+      File : Kit_DC_Input_Voltage_To_Breadboard.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D18
+    D19
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Kit_DC_Input_Voltage_To_Breadboard.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Kit_DC_Input_Voltage_To_Breadboard.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+

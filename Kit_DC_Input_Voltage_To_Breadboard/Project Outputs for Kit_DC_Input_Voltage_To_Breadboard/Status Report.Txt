@@ -1,0 +1,19 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:55:44 PM On 11-Mar-21
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Kit_DC_Input_Voltage_To_Breadboard.PcbDoc]
+   Generated File[Kit_DC_Input_Voltage_To_Breadboard.GTO]
+   Generated File[Kit_DC_Input_Voltage_To_Breadboard.GBL]
+   Generated File[Kit_DC_Input_Voltage_To_Breadboard.GBS]
+   Generated File[Kit_DC_Input_Voltage_To_Breadboard.RUL]
+   Generated File[Kit_DC_Input_Voltage_To_Breadboard.EXTREP]
+   Generated File[Kit_DC_Input_Voltage_To_Breadboard.REP]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 12:55:44 PM On 11-Mar-21
