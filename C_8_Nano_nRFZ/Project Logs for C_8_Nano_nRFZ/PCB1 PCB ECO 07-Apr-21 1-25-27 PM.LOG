@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=Net1_RAW Pin=Cell1-1
+Removed Pin From Net: NetName=GND Pin=Cell1-2
+Removed Member From Class: ClassName=Sheet1 Member=Cell1
+Removed Member From Class: ClassName=Sheet1 Member=CurrSens1
+Added Component: Designator=J1(TE_282841-3_0)
+Added Component: Designator=J2(Phoenix_Contact_1729018_0)
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=Net1_RAW Pin=J2-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=K1-NC
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=K1-COM
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=K1-NO
+Added Net: Name=NetJ1_3
+Added Member To Class: ClassName=Sheet1 Member=Component J1 TB 3pin
+Added Member To Class: ClassName=Sheet1 Member=Component J2 TB 2pin
+Added Room: Name=Sheet1
