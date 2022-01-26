@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=Sheet1 Member=BR
+Added Component: Designator=D1(2w10)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R4-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=U1-2
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_4 Pin=R3-2
+Added Net: Name=NetD1_4
+Added Member To Class: ClassName=Sheet1 Member=Component D1 2W10
+Added Room: Name=Sheet1
