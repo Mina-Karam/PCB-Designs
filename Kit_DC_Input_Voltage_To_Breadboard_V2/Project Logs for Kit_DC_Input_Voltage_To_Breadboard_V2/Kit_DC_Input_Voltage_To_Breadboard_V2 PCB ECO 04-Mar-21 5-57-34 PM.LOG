@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=P1-2
+Removed Pin From Net: NetName=NetD1_1 Pin=P2-2
+Removed Member From Class: ClassName=Kit_DC_Input_Voltage_To_Breadboard_V2 Member=P1
+Removed Member From Class: ClassName=Kit_DC_Input_Voltage_To_Breadboard_V2 Member=P2
+Added Component: Designator=F1(Fuse Holder)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.keyelco.com/product-pdf.cfm?p=354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "15 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Entry"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Type"; Value = "Cylindrical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin THD, Pin Spacing 6.76 mm, Height 8.71 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3517-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "3517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "CLIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UL Recognized"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=F2(Fuse Holder)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.keyelco.com/product-pdf.cfm?p=354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "15 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Entry"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Type"; Value = "Cylindrical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin THD, Pin Spacing 6.76 mm, Height 8.71 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3517-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "3517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "CLIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UL Recognized"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=J2(TE_826926-2_0)
+Added Pin To Net: NetName=NetD1_1 Pin=J2-1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-2
+Added Pin To Net: NetName=NetF1_1 Pin=U1-2
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=F2-2
+Added Pin To Net: NetName=NetF2_1 Pin=J2-2
+Added Pin To Net: NetName=NetF2_1 Pin=R1-1
+Added Net: Name=NetF2_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-3
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=Kit_DC_Input_Voltage_To_Breadboard_V2 Member=Component F1 3517
+Added Member To Class: ClassName=Kit_DC_Input_Voltage_To_Breadboard_V2 Member=Component F2 3517
+Added Member To Class: ClassName=Kit_DC_Input_Voltage_To_Breadboard_V2 Member=Component J2 PH 2pin
+Added Room: Name=Kit_DC_Input_Voltage_To_Breadboard_V2

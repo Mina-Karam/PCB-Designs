@@ -1,0 +1,11 @@
+Added Component: Designator=D?(ON_Semiconductor_017AH_MFG)
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=J2-2
+Added Pin To Net: NetName=NetD?_1 Pin=R1-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=F2-1
+Added Pin To Net: NetName=NetD?_2 Pin=F2-2
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=Kit_DC_Input_Voltage_To_Breadboard_V2 Member=Component D? 1N4007
+Added Room: Name=Kit_DC_Input_Voltage_To_Breadboard_V2
