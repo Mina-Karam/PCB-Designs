@@ -1,0 +1,6 @@
+Added Component: Designator=R2(10 ohm 5W)
+Added Pin To Net: NetName=NetD2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10 ohm 5W
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10 ohm 5W
+Added Room: Name=Sheet1

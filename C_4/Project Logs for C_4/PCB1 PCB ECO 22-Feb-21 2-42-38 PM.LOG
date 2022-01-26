@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R1 Old Footprint=STACKPOLE_ELECTRONICS_INC._CF14JT1K00_0 New Footprint=Res 100 ohm 2 watt
+Change Component Footprint: Designator=R2 Old Footprint=STACKPOLE_ELECTRONICS_INC._CF14JT1K00_0 New Footprint=Res 100 ohm 2 watt
+Change Component Footprint: Designator=R3 Old Footprint=STACKPOLE_ELECTRONICS_INC._CF14JT1K00_0 New Footprint=Res 100 ohm 2 watt
+Added Room: Name=Sheet1
